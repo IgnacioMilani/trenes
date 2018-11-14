@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "uni9000_ver" -lib "aim_ver" -lib "cpld_ver" -lib "xilinxcorelib_ver" -o "C:/Users/igna_/Documents/Tecnicas Digitales I/trenes/testbench_isim_beh.exe" -prj "C:/Users/igna_/Documents/Tecnicas Digitales I/trenes/testbench_beh.prj" "work.testbench" "work.glbl" 
